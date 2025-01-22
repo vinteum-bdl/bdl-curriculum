@@ -30,3 +30,20 @@ required infrastructure.
 ### Phase 2: Main Cohort
 
 ### Infrastructure
+
+## Tasks
+
+The BDL program is a work in progress, we learn with every cohort and improve
+for the next. These are open tasks for the second cohort.
+
+- [ ] Move the
+      [rpc-scanvenger-hunt](https://github.com/vinteumorg/task-rpc-scavenger-hunt)
+      challenge as a warm up for those selected to the main cohort.
+- [ ] Reestructure the program to include a Lightning Network track.
+  - [ ] Write a HTLC programming challenge.
+  - [ ] Write a Payment Routing programming challenge.
+- [ ] Implement and test the autograder for the programming challenges. 
+  - [ ] For the challenges with fixed expected data, check hash preimages
+        instead of hardcoding the expected results.
+  - [ ] Make the autograder automagically fill a spreadsheet so that we can
+        focus solely on code review and minimize administration.

@@ -22,4 +22,5 @@ educational Bitcoin landscape.
 This repo includes the documentation that details the program specifics and the
 required infrastructure.
 
+[Bitcoin Dev Launchpad Manifesto](bdl-manifesto.md)
 [Curriculum Structure](curriculum-structure.md)

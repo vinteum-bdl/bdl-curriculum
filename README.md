@@ -23,3 +23,10 @@ This repo includes the documentation that details the program specifics and the
 required infrastructure.
 
 [Curriculum Structure](curriculum-structure.md)
+
+### Phase 1: Extended Selection
+[Mastering Bitcoin Seminar](https://github.com/vinteum-bdl/mastering-bitcoin-seminar)
+
+### Phase 2: Main Cohort
+
+### Infrastructure
